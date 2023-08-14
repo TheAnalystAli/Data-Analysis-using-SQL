@@ -1,4 +1,4 @@
-# PortfolioProjects2
+# SQL Project 2
 Used SQL for data cleaning and manipulating the data given.
 Standardized the date formate of the data using CONVERT.
 Many null values and duplication were in the data so finished it by usnig different clauses.
